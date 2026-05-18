@@ -1,7 +1,7 @@
 const sessionName = "wasifrind";
-const ownerName = "Wasif Rind";
-const ownerEmail = "wasifrind27@gmail.com";
-const owner = ["923272516116"];
+const ownerName = "Wasif Rind and Kamran Hasil";
+const ownerEmail = "wasifrind27@gmail.com and Kamranhasilbaloch@gmail.com";
+const owner = ["923272516116","03395267262"];
 const {
   default: sansekaiConnect,
   useMultiFileAuthState,
